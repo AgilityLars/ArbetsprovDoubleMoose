@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ArbetsprovFPS2.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{794D3442-D49B-4E58-9EA5-30AB81C100E0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ArbetsprovFPS2.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ArbetsprovFPS2Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\WindowsNoEditor.zip" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{2C0FFD17-6054-4A16-891A-ABF5A19E1A4F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ArbetsprovFPS2">
+      <UniqueIdentifier>{AF423517-AB3A-494B-AC3F-29B2CCDF81F6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ArbetsprovFPS2\ArbetsprovFPS2.Build.cs">
+      <Filter>Source\ArbetsprovFPS2</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ArbetsprovFPS2\ArbetsprovFPS2.cpp">
+      <Filter>Source\ArbetsprovFPS2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ArbetsprovFPS2\ArbetsprovFPS2.h">
+      <Filter>Source\ArbetsprovFPS2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ArbetsprovFPS2\Pickup.cpp">
+      <Filter>Source\ArbetsprovFPS2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ArbetsprovFPS2\Pickup.h">
+      <Filter>Source\ArbetsprovFPS2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ArbetsprovFPS2\PickupSpawner.cpp">
+      <Filter>Source\ArbetsprovFPS2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ArbetsprovFPS2\PickupSpawner.h">
+      <Filter>Source\ArbetsprovFPS2</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\ArbetsprovFPS2\MultiplayerCharacter.h">
+      <Filter>Source\ArbetsprovFPS2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ArbetsprovFPS2\AKAmmoPickup.h">
+      <Filter>Source\ArbetsprovFPS2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ArbetsprovFPS2\SpawnVolume.h">
+      <Filter>Source\ArbetsprovFPS2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ArbetsprovFPS2\MultiplayerGameMode.h">
+      <Filter>Source\ArbetsprovFPS2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ArbetsprovFPS2\MultiplayerProjectile.h">
+      <Filter>Source\ArbetsprovFPS2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ArbetsprovFPS2\MultiplayerController.h">
+      <Filter>Source\ArbetsprovFPS2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ArbetsprovFPS2\MultiplayerHUD.h">
+      <Filter>Source\ArbetsprovFPS2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ArbetsprovFPS2\MultiplayerGameState.h">
+      <Filter>Source\ArbetsprovFPS2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ArbetsprovFPS2\MultiplayerGameStateBase.h">
+      <Filter>Source\ArbetsprovFPS2</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\ArbetsprovFPS2\MultiplayerCharacter.cpp">
+      <Filter>Source\ArbetsprovFPS2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ArbetsprovFPS2\AKAmmoPickup.cpp">
+      <Filter>Source\ArbetsprovFPS2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ArbetsprovFPS2\SpawnVolume.cpp">
+      <Filter>Source\ArbetsprovFPS2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ArbetsprovFPS2\MultiplayerGameMode.cpp">
+      <Filter>Source\ArbetsprovFPS2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ArbetsprovFPS2\MultiplayerProjectile.cpp">
+      <Filter>Source\ArbetsprovFPS2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ArbetsprovFPS2\MultiplayerController.cpp">
+      <Filter>Source\ArbetsprovFPS2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ArbetsprovFPS2\MultiplayerHUD.cpp">
+      <Filter>Source\ArbetsprovFPS2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ArbetsprovFPS2\MultiplayerGameState.cpp">
+      <Filter>Source\ArbetsprovFPS2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ArbetsprovFPS2\MultiplayerGameStateBase.cpp">
+      <Filter>Source\ArbetsprovFPS2</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

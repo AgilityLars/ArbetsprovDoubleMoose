@@ -1,0 +1,16 @@
+﻿  Creating makefile for ArbetsprovFPS2Editor (ini files are newer than makefile)
+  Parsing headers for ArbetsprovFPS2Editor
+    Running UnrealHeaderTool "C:\Users\Oliver\Documents\Unreal Projects\ArbetsprovFPS2 4.22\ArbetsprovFPS2.uproject" "C:\Users\Oliver\Documents\Unreal Projects\ArbetsprovFPS2 4.22\Intermediate\Build\Win64\ArbetsprovFPS2Editor\Development\ArbetsprovFPS2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for ArbetsprovFPS2Editor in 7,6283242 seconds
+  Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 6 actions with 8 processes...
+    [1/6] MultiplayerGameStateBase.cpp
+    [2/6] MultiplayerGameMode.gen.cpp
+    [3/6] MultiplayerGameMode.cpp
+    [4/6] UE4Editor-ArbetsprovFPS2-0082.lib
+       Creating library C:\Users\Oliver\Documents\Unreal Projects\ArbetsprovFPS2 4.22\Intermediate\Build\Win64\UE4Editor\Development\ArbetsprovFPS2\UE4Editor-ArbetsprovFPS2-0082.lib and object C:\Users\Oliver\Documents\Unreal Projects\ArbetsprovFPS2 4.22\Intermediate\Build\Win64\UE4Editor\Development\ArbetsprovFPS2\UE4Editor-ArbetsprovFPS2-0082.exp
+    [5/6] UE4Editor-ArbetsprovFPS2-0082.dll
+       Creating library C:\Users\Oliver\Documents\Unreal Projects\ArbetsprovFPS2 4.22\Intermediate\Build\Win64\UE4Editor\Development\ArbetsprovFPS2\UE4Editor-ArbetsprovFPS2-0082.suppressed.lib and object C:\Users\Oliver\Documents\Unreal Projects\ArbetsprovFPS2 4.22\Intermediate\Build\Win64\UE4Editor\Development\ArbetsprovFPS2\UE4Editor-ArbetsprovFPS2-0082.suppressed.exp
+    [6/6] ArbetsprovFPS2Editor.target
+  Total time in Parallel executor: 3,19 seconds
+  Total execution time: 13,60 seconds

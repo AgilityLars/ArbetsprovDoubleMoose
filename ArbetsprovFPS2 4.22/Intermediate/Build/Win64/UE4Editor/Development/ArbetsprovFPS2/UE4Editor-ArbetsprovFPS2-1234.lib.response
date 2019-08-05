@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ArbetsprovFPS2-1234.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Oliver\Documents\Unreal Projects\ArbetsprovFPS2 4.22\Intermediate\Build\Win64\ArbetsprovFPS2Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Oliver\Documents\Unreal Projects\ArbetsprovFPS2 4.22\Intermediate\Build\Win64\UE4Editor\Development\ArbetsprovFPS2\ArbetsprovFPS2.cpp.obj"
+"C:\Users\Oliver\Documents\Unreal Projects\ArbetsprovFPS2 4.22\Intermediate\Build\Win64\UE4Editor\Development\ArbetsprovFPS2\PickupSpawner.cpp.obj"
+"C:\Users\Oliver\Documents\Unreal Projects\ArbetsprovFPS2 4.22\Intermediate\Build\Win64\UE4Editor\Development\ArbetsprovFPS2\ArbetsprovFPS2.init.gen.cpp.obj"
+"C:\Users\Oliver\Documents\Unreal Projects\ArbetsprovFPS2 4.22\Intermediate\Build\Win64\UE4Editor\Development\ArbetsprovFPS2\PickupSpawner.gen.cpp.obj"
+"C:\Users\Oliver\Documents\Unreal Projects\ArbetsprovFPS2 4.22\Intermediate\Build\Win64\UE4Editor\Development\ArbetsprovFPS2\Default.rc2.res"
+/OUT:"C:\Users\Oliver\Documents\Unreal Projects\ArbetsprovFPS2 4.22\Intermediate\Build\Win64\UE4Editor\Development\ArbetsprovFPS2\UE4Editor-ArbetsprovFPS2-1234.lib"
+/INCLUDE:IMPLEMENT_MODULE_ArbetsprovFPS2
